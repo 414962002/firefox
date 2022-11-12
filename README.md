@@ -16,7 +16,7 @@ F.R.F<sub>x</sub>
   
 •&emsp;[*firefox - windows*](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US)  
 •&emsp;[*firefox - linux*](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US)  
-•&emsp;[<i>profile folder</i>](https://github.com/eooeo/FRF0X/blob/main/img/about-config/001_profile_folder.gif)  
+•&emsp;[<i>profile folder</i>](https://github.414962002/FRF0X/blob/main/img/about-config/001_profile_folder.gif)  
 •&emsp;<i>create folder  "chrome"   </i>
 
 </details>  
@@ -49,7 +49,7 @@ F.R.F<sub>x</sub>
 customize toolbar - density - compact  
 &nbsp;  
   
-•&emsp;<sub><sup>[visually](https://github.com/eooeo/FRFx/blob/main/img/about-config/006_hide_list-all-tabs_button.gif)</sup></sub>&emsp;<i>hide list-all-tabs button</i>&emsp;      
+•&emsp;<sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/about-config/006_hide_list-all-tabs_button.gif)</sup></sub>&emsp;<i>hide list-all-tabs button</i>&emsp;      
 ```browser.tabs.tabmanager.enabled``` - ```false```  
 &nbsp;  
   
@@ -83,7 +83,7 @@ customize toolbar - density - compact
 <sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/main-bar/main-bar_no_round_the_corners.png)</sup></sub>&emsp;@import url(css_userChrome/main-bar_no_round_the_corners.css);  
 <sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/about-config/003_remove_button_tooltips.gif)</sup></sub>&emsp;@import url(css_userChrome/main-bar_remove_button_tooltips.css);  
 <sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/main-bar/main-bar_round_windows-close_buttons.gif)</sup></sub>&emsp;@import url(css_userChrome/main-bar_round_windows-close_buttons.css);  
-<sub><sup>[visually](https://github.com/eooeo/FRFx/blob/main/img/main-bar/main-bar_search-panel_and_tabs_one-liner.png)</sup></sub>&emsp;@import url(css_userChrome/main-bar_search-panel_and_tabs_one-liner.css);  
+<sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/main-bar/main-bar_search-panel_and_tabs_one-liner.png)</sup></sub>&emsp;@import url(css_userChrome/main-bar_search-panel_and_tabs_one-liner.css);  
   
   
 *search-panel*    
@@ -102,8 +102,8 @@ customize toolbar - density - compact
 <sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/tab/tab_hide_change_tab-label.png)</sup></sub>&emsp;@import url(css_userChrome/tab_hide_change_tab-label.css);  
 <sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/tab/tab_hide_close_button.png)</sup></sub>&emsp;@import url(css_userChrome/tab_hide_close_button.css);  
 <sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/tab/tab_hide_or_change_tab-firefox-favicons.png)</sup></sub>&emsp;@import url(css_userChrome/tab_hide_or_change_tab-firefox-favicons.css);  
-<sub><sup>[visually](https://github.com/eooeo/FRFx/blob/main/img/tab/tab_hide_the_firefox-favicon.png)</sup></sub>&emsp;@import url(css_userChrome/tab_hide_the_firefox-favicon.css);  
-<sub><sup>[visually](https://github.com/eooeo/FRFx/blob/main/img/tab/tab_loading_progress_bar.gif)</sup></sub>&emsp;@import url(css_userChrome/tab_loading_progress_bar.css);  
+<sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/tab/tab_hide_the_firefox-favicon.png)</sup></sub>&emsp;@import url(css_userChrome/tab_hide_the_firefox-favicon.css);  
+<sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/tab/tab_loading_progress_bar.gif)</sup></sub>&emsp;@import url(css_userChrome/tab_loading_progress_bar.css);  
  
 </details> 
 &nbsp 
