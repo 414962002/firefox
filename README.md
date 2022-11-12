@@ -3,8 +3,8 @@ F.R.F<sub>x</sub>
 </p>  
   
 <p align="center">
-  <img src="https://github.com/414962002/FRF0X/blob/main/img/cover/1.png">  
-  <img src="https://github.com/414962002/FRF0X/blob/main/img/cover/1.1.png">  
+  <img src="https://github.com/414962002/FRFx/blob/main/img/cover/1.png">  
+  <img src="https://github.com/414962002/FRFx/blob/main/img/cover/1.1.png">  
 </p>
 
   
@@ -32,15 +32,15 @@ F.R.F<sub>x</sub>
 ```toolkit.legacyUserProfileCustomizations.stylesheets``` - ```true```  
 &nbsp;  
   
-•&emsp;<sub><sup>[visually](https://github.com/414962002/FRF0X/blob/main/img/about-config/002_don't_close_last_tab.gif)</sup></sub>&emsp;<i>don't close last tab</i>&emsp;    
+•&emsp;<sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/about-config/002_don't_close_last_tab.gif)</sup></sub>&emsp;<i>don't close last tab</i>&emsp;    
 ```browser.tabs.closeWindowWithLastTab``` - ```false```  
 &nbsp;  
   
-•&emsp;<sub><sup>[visually](https://github.com/414962002/FRF0X/blob/main/img/about-config/003_remove_button_tooltips.gif)</sup></sub>&emsp;<i>remove button tooltips</i>   
+•&emsp;<sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/about-config/003_remove_button_tooltips.gif)</sup></sub>&emsp;<i>remove button tooltips</i>   
 ```browser.chrome.toolbar_tips``` - ```false```  
 &nbsp;  
   
-•&emsp;<sub><sup>[visually](https://github.com/414962002/FRF0X/blob/main/img/about-config/004_turn_off_additional_search_bar's_window.gif)</sup></sub>&emsp;<i>turn off additional search bar's window</i>   
+•&emsp;<sub><sup>[visually](https://github.com/414962002/FRFx/blob/main/img/about-config/004_turn_off_additional_search_bar's_window.gif)</sup></sub>&emsp;<i>turn off additional search bar's window</i>   
 ```browser.urlbar.maxRichResults``` - ```0```  
 &nbsp;  
 
