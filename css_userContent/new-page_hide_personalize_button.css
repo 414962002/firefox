@@ -1,0 +1,5 @@
+/*new-page_hide_personalize_button.css*/
+
+.personalize-button {
+    display: none !important;
+}

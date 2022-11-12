@@ -1,0 +1,55 @@
+/* colors_of_window-close-button_light.css */
+
+/* Icons and their background */
+.titlebar-min {
+    list-style-image: url(chrome://browser/skin/window-controls/minimize.svg) !important;
+    color: rgb(240, 240, 244) !important;
+}
+
+.titlebar-max {
+    list-style-image: url(chrome://browser/skin/window-controls/maximize.svg) !important;
+    color: rgb(240, 240, 244) !important;
+}
+
+.titlebar-restore {
+    list-style-image: url(chrome://browser/skin/window-controls/restore.svg) !important;
+    color: rgb(240, 240, 244) !important;
+}
+
+/* 
+.titlebar-close {
+    list-style-image: url(chrome://browser/skin/window-controls/close.svg) !important;
+    color: rgb(240, 240, 244) !important;
+} 
+*/
+
+/* Hover colors */
+.titlebar-min:hover {
+    color: rgb(218, 25, 25) !important;
+    list-style-image: url(chrome://browser/skin/window-controls/minimize.svg) !important;
+    background: rgb(240, 240, 244) !important;
+}
+
+.titlebar-max:hover {
+    color: rgb(218, 25, 25) !important;
+    list-style-image: url(chrome://browser/skin/window-controls/maximize.svg) !important;
+    background: rgb(240, 240, 244) !important;
+}
+
+.titlebar-restore:hover {
+    color: rgb(218, 25, 25) !important;
+    list-style-image: url(chrome://browser/skin/window-controls/restore.svg) !important;
+    background: rgb(240, 240, 244) !important;
+}
+
+.titlebar-close:hover {
+    color: rgb(218, 25, 25) !important;
+    list-style-image: url(chrome://browser/skin/window-controls/close.svg) !important;
+    background: rgb(218, 25, 25) !important;
+}
+
+@-moz-document url(about:newtab){
+input#newtab-customize-button {
+    display: none !important;
+}
+}

@@ -1,0 +1,55 @@
+/*tab_hide_change_tab-label.css*/
+
+
+.tabbrowser-tab[selected]:hover .tab-label {
+    display: -moz-box !important;
+}
+
+.tabbrowser-tab[selected] .tab-label {
+    display: none;
+}
+
+.tabbrowser-tab[selected] :hover .tab-label {
+    color: rgb(224, 224, 224)!important;
+    font-weight: none !important;
+}
+
+
+/* .tabbrowser-tab:not([pinned]):hover .tab-label {
+    display: -moz-box !important;
+} */
+
+
+/* .tab-background.tab-label {
+    background-color: rgb(240, 22, 87) !important;
+    background-image: none !important;
+} */
+
+/* .tabbrowser-tab[selected] .tab-label {
+    color: rgb(91, 91, 102)!important;
+    font-weight: none !important;
+} */
+
+
+/* .tabbrowser-tab.tab-label {
+    color: rgb(91, 91, 102)!important;
+    font-weight: none !important;
+}
+
+.tabbrowser-tab :hover .tab-label {
+    color: rgb(91, 91, 102)!important;
+    font-weight: none !important;
+} */
+
+/* .tabbrowser-tab .tab-label {
+    display: none;
+}
+
+.tabbrowser-tab:not([pinned]):hover .tab-label {
+    display: -moz-box !important;
+}
+
+.tab-background.tab-label {
+    background-color: rgb(240, 240, 244) !important;
+    background-image: none !important;
+} */

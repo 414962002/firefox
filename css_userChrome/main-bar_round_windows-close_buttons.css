@@ -1,0 +1,36 @@
+/*main-bar_round_windows-close_buttons.css*/
+
+.titlebar-button {
+    opacity: 0.6;
+    --uc-caption-color: rgb(36, 209, 49)
+}
+
+.titlebar-min {
+    opacity: 0.5;
+    --uc-caption-color: rgb(36, 209, 49)
+}
+
+.titlebar-close {
+    opacity: 0.7;
+    --uc-caption-color: rgb(36, 209, 49)
+}
+
+.titlebar-button:hover {
+    opacity: 1
+}
+
+.titlebar-button {
+    background: transparent !important;
+    padding-inline: 10px !important;
+    transition: opacity 0.2s ease;
+}
+
+.titlebar-close {
+    padding-right: 18px !important;
+}
+
+.titlebar-button>.toolbarbutton-icon {
+    list-style-image: none;
+    border-radius: 10px;
+    background: var(--uc-caption-background, currentColor) !important;
+}

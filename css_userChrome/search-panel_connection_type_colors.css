@@ -1,0 +1,25 @@
+/*urlbar_connection_type_text_colors*/
+/*https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/urlbar_connection_type_text_colors.css*/
+
+/* Modifies the urlbar text color based on connection type - "normal" https: won't be mdofied */
+
+/* Mixed content including neterror */
+#identity-box[pageproxystate="valid"].unknownIdentity~.urlbar-input-box {
+  color: rgb(219, 99, 99); font-weight: bold;
+}
+
+/* http: and potentially some other insecure connections like ftp: */
+#identity-box[pageproxystate="valid"].notSecure~.urlbar-input-box {
+  color: rgb(219, 99, 99); font-weight: bold;
+}
+
+/* Extension pages */
+#identity-box[pageproxystate="valid"].extensionPage~.urlbar-input-box {
+  color: rgb(4, 0, 255)
+}
+
+/* Internal about: and chrome:// urls (includes reader-view) */
+#identity-box[pageproxystate="valid"].localResource~.urlbar-input-box,
+#identity-box[pageproxystate="valid"].chromeUI~.urlbar-input-box {
+  color: rgb(4, 0, 255)
+}

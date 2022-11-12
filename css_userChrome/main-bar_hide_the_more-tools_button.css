@@ -1,0 +1,4 @@
+/*hide the more-tools button*/
+#nav-bar-overflow-button {
+    display: none !important;
+}

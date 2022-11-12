@@ -1,0 +1,17 @@
+/* bookmark-bar_change_the_icons.css */
+
+/* 
+change the icons - folder ../svg
+add this to each folders you have by changing
+use SVG files
+https://www.svgrepo.com/ 
+*/
+
+.bookmark-item[container="true"] [label=""] {
+  /*light theme*/
+  /* list-style-image: url("../svg/light-square.svg") !important; */
+
+  /*dark theme*/
+  list-style-image: url("../svg/dark-circle.svg") !important;
+  
+}

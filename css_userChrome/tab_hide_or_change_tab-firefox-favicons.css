@@ -1,0 +1,15 @@
+/* tab_hide_or_change_tab-firefox-favicons */
+
+/* Icon files not included. Save the icon files to same folder where userChrome.css is */
+
+/* Default tab favicon, the globe kind of thing */
+.tab-icon-image:not([src]) {
+    content: url("icon.png");
+    /* filename for icon to load */
+}
+
+/* The Firefox brand icon seen on newtab page etc. */
+.tab-icon-image[src="chrome://branding/content/icon32.png"] {
+    content: url("icon.png");
+    /* filename for icon to load */
+}

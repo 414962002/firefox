@@ -1,0 +1,6 @@
+/*tab_capitalize_font_size*/
+
+.tabbrowser-tab .tab-text {
+    font-size: 85% !important;
+    text-transform: uppercase;
+}

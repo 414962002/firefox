@@ -1,0 +1,24 @@
+/*links_color.css*/
+
+/*
+domain("example.com")
+url-prefix("https://mail."), 
+url("http://www.example.com/folder/onlythispage.html")
+*/
+
+@-moz-document domain("google.com")
+
+{
+    
+/* a:link {color: rgb(19, 92, 160) !important;} */
+ 
+a:visited {color: rgb(212, 109, 96)!important;}
+
+a:hover {color: rgb(212, 109, 96)!important;}
+
+/* 
+a:active {
+    color: crimson !important;
+} */
+
+}

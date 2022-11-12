@@ -1,0 +1,30 @@
+/*new-page_change_wallpaper.css*/
+
+/* 
+add your own wallpaper
+
+about:config
+toolkit.legacyUserProfileCustomizations.stylesheets - true
+create file - ../chrome/userContent.css 
+*/
+
+/* @-moz-document url("about:newtab"), url("about:home") {
+    body {
+        background-image: url("../png/background.png") !important;
+        background-position: center bottom !important;
+        background-repeat: round !important;
+        background-size: 10% !important;
+        background-attachment: fixed !important;
+    }
+    } */
+
+/* 
+create folder - ../chrome/png
+create file - ../png/background.png
+
+note:
+settings of firefox:
+home - new windows and tabs - firefox home (default)
+*/
+
+

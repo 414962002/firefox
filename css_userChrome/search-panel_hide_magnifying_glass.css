@@ -1,0 +1,4 @@
+/*remove magnifying glass
+in the search bar*/
+
+#identity-box { visibility: collapse !important; }  

@@ -1,0 +1,12 @@
+  /* ᅠtab_centered_content */
+
+  .tabbrowser-tab[selected]:not(:hover):not([pinned]) .tab-label-container,
+  #tabbrowser-tabs:not([closebuttons="activetab"]) .tabbrowser-tab:not(:hover):not([pinned]) .tab-label-container {
+      margin-inline-end: 20px
+  }
+
+  .tab-content:not([pinned])::before {
+      display: -moz-box;
+      content: "";
+      -moz-box-flex: 1;
+  }

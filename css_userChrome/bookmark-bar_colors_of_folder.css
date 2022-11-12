@@ -1,0 +1,12 @@
+/* bookmark-bar_colors_of_folder.css */
+
+/* 
+colors of folder
+label="...."
+specialFolder-...
+
+*/
+.bookmark-item[container="true"] [label="Archive"] ,
+treechildren::-moz-tree-image(folderNameCol, specialFolder-Archive) {
+  fill: #d61212 !important;
+}
