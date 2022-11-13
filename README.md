@@ -146,7 +146,7 @@ customize toolbar - density - compact
 <details>
   <summary>&emsp;&emsp;<sub>(: snuoq</sub></summary>
 ᅠ<p align="center">
-  <img src="https://github.com/414962002/FRF0X/blob/main/img/cover/6.png">
+  <img src="https://github.com/414962002/FRFx/blob/main/img/cover/6.png">
 
 </p>
 
