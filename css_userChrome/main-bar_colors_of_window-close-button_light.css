@@ -45,7 +45,7 @@
 .titlebar-close:hover {
     color: rgb(218, 25, 25) !important;
     list-style-image: url(chrome://browser/skin/window-controls/close.svg) !important;
-    background: rgb(218, 25, 25) !important;
+    background: rgb(240, 240, 244) !important;
 }
 
 @-moz-document url(about:newtab){
