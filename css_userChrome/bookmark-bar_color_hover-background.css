@@ -3,23 +3,23 @@
 
 /*dark*/
 
-toolbarbutton.bookmark-item {
+/* toolbarbutton.bookmark-item {
     background-color:rgb(43, 42, 51) !important;
    } 
 
 toolbarbutton.bookmark-item:hover {
     background-color:rgb(43, 42, 51) !important;
-   } 
+   }  */
 
 
 
 /*light*/
-/* 
+
 toolbarbutton.bookmark-item {
     background-color: rgb(249, 249, 251) !important;
 }
 
 toolbarbutton.bookmark-item:hover {
     background-color: rgb(249, 249, 251) !important;
-} */
+}
 

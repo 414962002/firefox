@@ -9,9 +9,9 @@ https://www.svgrepo.com/
 
 .bookmark-item[container="true"] [label=""] {
   /*light theme*/
-  /* list-style-image: url("../svg/light-square.svg") !important; */
+  list-style-image: url("../svg/light-square.svg") !important;
 
   /*dark theme*/
-  list-style-image: url("../svg/dark-circle.svg") !important;
+  /* list-style-image: url("../svg/dark-circle.svg") !important; */
   
 }
