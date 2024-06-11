@@ -1,4 +1,4 @@
-ᅠ<p align="center">
+<p align="center">
 F.R.F<sub>x</sub>
 </p>  
   
