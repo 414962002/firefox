@@ -12,7 +12,7 @@ F.R.F<sub>x</sub>
 
 <details>
   <summary>&emsp;&emsp;<b>install and create</b></summary>  
-&nbsp 
+&nbsp; 
   
 •&emsp;[*firefox - windows*](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US)  
 •&emsp;[*firefox - linux*](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US)  
